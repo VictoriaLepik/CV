@@ -1,0 +1,75 @@
+{
+    "name": "Victoria",
+    "lastName": "Lepik",
+    "phone number": "+375297719702",
+    "email": "Vic17112012@yandex.by",
+    "courses": [
+        "belhard group software testing engineer.Basic level"
+    ],
+    "education": [
+        {
+            "name": "Belarusian National Technical University",
+            "graduationYear": "2005",
+            "specialization": "ekonomist-marketolog",
+            "additional information": "diploma with honors,bachelor's degree"
+        },
+        {
+            "name": "Belarusian National Technical University",
+            "additional information": "master's degree",
+            "graduationYear": "2007",
+            "specialization": "business administration"
+        }
+    ],
+    "location": "Minsk",
+    "soft skills": [
+        "sociable",
+        "cheerful",
+        "easy to communicate",
+        "I always try to create a friendly atmosphere in the team for comfortable and efficient work",
+        "between money and a good team, I'll choose the good team"
+    ],
+    "hardSkills": [
+        {
+            "name": "SQL",
+            "level": "novice",
+            "datails": "simple queries",
+            "link": "https://github.com/VictoriaLepik/SQL",
+            "Work experience": [
+                {
+                    "company Name": "United Trade Union Organization of Minskzelenstroy ",
+                    "work period": "2005-2017",
+                    "job title": "accountant,chief accountant",
+                    "Duties included": "bookkeeping and assistance in organizing mass cultural and sporting eventse"
+                },
+                {
+                    "company name": "Zelensyroy Frunzensky district of Minsk ",
+                    "work period": "2017-2023",
+                    "job title": "head of planning and economic department",
+                    "Duties included": [
+                        "cost analysis budget management",
+                        "preparation of a business plan for the development of the enterprise and statistical reporting",
+                        "analysis of the company's financial performance"
+                    ]
+                },
+                {
+                    "company name": "Zelensyroy Oktyabrsky district of Minsk ",
+                    "work period": "2023-present time",
+                    "job title": "head of planning and economic department",
+                    "Duties included": [
+                        "cost analysis",
+                        "budget management",
+                        "preparation of a business plan for the development of the enterprise",
+                        "statistical reporting,analysis of the company's financial performance"
+                    ]
+                }
+            ],
+            "hobbies": [
+                "nature walks",
+                "meet-ups with friends",
+                "cinema",
+                "swimming pool and bath"
+            ],
+            "english language skills": "Good reading and translating ability"
+        }
+    ]
+}
